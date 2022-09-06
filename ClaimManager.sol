@@ -1,12 +1,5 @@
 //SPDX-License-Identifier: MIT
 
-// Group Composition: Carlos Cardoso | 20211220
-//                    Carlota Reis | 20211208
-//                    Darielder Ribeiro | 20210718
-//                    Guilherme Miranda | 20210420
-//                    Hurbay Sema | 20210843
-//                    Mariana Garcia | 20210838
-//                    Vasco Bastos | 20211151
 
 pragma solidity >=0.5.0 <0.9.0;
 
